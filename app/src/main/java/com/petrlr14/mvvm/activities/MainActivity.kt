@@ -1,4 +1,4 @@
-package com.petrlr14.mvvm.activities
+                                                                                                                                                                                                    package com.petrlr14.mvvm.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
